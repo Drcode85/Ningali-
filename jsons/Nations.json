@@ -25,8 +25,8 @@
 			"[+1 Happiness] for every known Natural Wonder", "[+100]% Yield from every [Natural Wonder]"],
 		"cities": ["Arano","San Cristóbal","Santa Rosa","Vientos","Las Floras","Río Calro","La Sanmanol","Monte","Marisol","San Aurelio","Rio Agua",
 			"Rio Del Sol","Puerto Luoma","Delmar","Esperanza","Valle De Plata","Isla Dora","El Wina","Bazona","San Isidro","Nueva","El Las","Victoria",
-			"Fernando","Magdalena","Alegre Del Sur","Encantado","Puerto Azul","Escaz","El Fuego","Santa Lucía","Nizaña","San Rafeal","",
-			"Tizao","","","","","",""],
+			"Fernando","Magdalena","Alegre Del Sur","Encantado","Puerto Azul","Escaz","El Fuego","Santa Lucía","Nizaña","San Rafeal","Zarifal",
+			"Tizao","Caldera","Alzarina","Teyuna","Caumari","Talibra","Pama"],
         "spyNames": ["Carlos", "Luis", "Isela", "José", "René", "Rico", "Diego", "Cruz", "Catalina", "Alvaro"]
     }
 ]
