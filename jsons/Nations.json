@@ -21,7 +21,7 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Gran Expansion",
-		"uniques": ["[33]% Culture cost of natural border growth [in all cities]","[50]% Production when constructing [Settler] units [in all cities]"],
+		"uniques": ["[-50]% unhappiness from the number of cities", "[33]% Culture cost of natural border growth [in all cities]","[50]% Production when constructing [Settler] units [in all cities]"],
 		"cities": ["Arano","San Cristóbal","Santa Rosa","Vientos","Las Floras","Río Calro","La Sanmanol","Monte","Marisol","San Aurelio","Rio Agua",
 			"Rio Del Sol","Puerto Luoma","Delmar","Esperanza","Valle De Plata","Isla Dora","El Wina","Bazona","San Isidro","Nueva","El Las","Victoria",
 			"Fernando","Magdalena","Alegre Del Sur","Encantado","Puerto Azul","Escaz","El Fuego","Santa Lucía","Nizaña","San Rafeal","Zarifal",
