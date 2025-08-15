@@ -3,7 +3,7 @@
 		"name": "Salovia",
 		"leaderName": "Petro Carlisle",
 		"adjective": ["Salovian"],
-		"startBias": ["Plain"],
+		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 		"personality": "Petro",
 
@@ -21,7 +21,7 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Gran Expansion",
-		"uniques": ["Gain control over [resource] tiles in a [2]-tile radius","[33]% Culture cost of natural border growth [in all cities]"],
+		"uniques": ["Gain control over [resource] tiles in a [3]-tile radius <upon founding a city>","[33]% Culture cost of natural border growth [in all cities]"],
 		"cities": ["Arano","San Cristóbal","Santa Rosa","Vientos","Las Floras","Río Calro","La Sanmanol","Monte","Marisol","San Aurelio","Rio Agua",
 			"Rio Del Sol","Puerto Luoma","Delmar","Esperanza","Valle De Plata","Isla Dora","El Wina","Bazona","San Isidro","Nueva","El Las","Victoria",
 			"Fernando","Magdalena","Alegre Del Sur","Encantado","Puerto Azul","Escaz","El Fuego","Santa Lucía","Nizaña","San Rafeal","Zarifal",
