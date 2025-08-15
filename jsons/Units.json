@@ -1,7 +1,7 @@
 [
 	{
-		"name": "Pascal",
-		"unitTo": "Salovia",
+		"name": "Palces",
+		"uniqueTo": "Salovia",
 		"replaces": "Lancer",
 		"unitType": "Mounted",
 		"movement": 4,
