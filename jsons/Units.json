@@ -1,17 +1,33 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"name": "Pascal",
+		"unitTo": "Salovia",
+		"replaces": "Lancer",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 27,
+		"cost": 185,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Can build [Camp] improvements on tiles","Can build [Pasture] improvements on tiles"],
+		"promotions": ["Formation I"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"
+	},
+	{
+		"name": "Esporla",
+		"uniqueTo": "Salovia",
+		"replaces": "Scout",
+		"unitType": "Scout",
+		"movement": 3,
+		"strength": 8,
+		"cost": 30,
+		"requiredTech": "Animal Husbandry",
+		"requiredResource": "Horses",
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Horseman] through ruins-like effects"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "horse"
 	}
 ]
