@@ -25,8 +25,7 @@
 		"requiredTech": "Animal Husbandry",
 		"requiredResource": "Horses",
 		"obsoleteTech": "Scientific Theory",
-		"upgradeTo": "Palces",
-		"uniques": ["May upgrade to [Horseman] through ruins-like effects"],
+		"uniques": ["May upgrade to [Chariot Archer] through ruins-like effects"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "horse"
 	}
