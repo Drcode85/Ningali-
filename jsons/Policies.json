@@ -36,20 +36,20 @@
                     "[+20]% spy effectiveness [in non-enemy cities]"
                 ],
                 "requires": ["Organized Surveillance"],
-                "row": 3,
+                "row": 2,
                 "column": 2
             },
             {
-                "name": "Loyalism",
-                "uniques": ["[+1 Culture]"],
-                "requires": ["Organized Surveillance"],
+                "name": "Manipulative Tactic",
+                "uniques": [""],
+                "requires": ["Encrypted System"],
                 "row": 3,
                 "column": 4
             },
             {
                 "name": "Censorship",
                 "uniques": ["[-20]% enemy spy effectiveness [in your cities]", "[-100]% weight to this choice for AI decisions"],
-                "requires": ["Anti-Purge"],
+                "requires": ["Anti-Purge", "Encrypted System"],
                 "row": 3,
                 "column": 3
             },
