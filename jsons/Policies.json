@@ -54,7 +54,7 @@
       {
         "name": "Censorship",
         "uniques": ["[-20]% enemy spy effectiveness [in your cities]"],
-        "requires": ["Encryption System"],
+        "requires": ["Loyalty Program"],
         "row": 3,
         "column": 4
       },
