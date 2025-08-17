@@ -40,7 +40,7 @@
                 "column": 2
             },
             {
-                "name": "Manipulative Tactic",
+                "name": "Loyalty Program",
                 "uniques": [""],
                 "requires": ["Encrypted System"],
                 "row": 3,
@@ -48,8 +48,8 @@
             },
             {
                 "name": "Censorship",
-                "uniques": ["[-20]% enemy spy effectiveness [in your cities]", "[-100]% weight to this choice for AI decisions"],
-                "requires": ["Anti-Purge", "Encrypted System"],
+                "uniques": ["[-20]% enemy spy effectiveness [in your cities]"],
+                "requires": ["Encrypted System"],
                 "row": 3,
                 "column": 3
             },
