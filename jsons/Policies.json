@@ -11,7 +11,7 @@
     },
     "uniques": [
       "[-15]% enemy spy effectiveness [in capital]",
-      "Only available <before adopting [Piety]>"
+      "Only available <when espionage is enabled>"
     ],
     "policies": [
       {
@@ -54,7 +54,7 @@
       {
         "name": "Censorship",
         "uniques": ["[-20]% enemy spy effectiveness [in your cities]"],
-        "requires": ["Central Surveillance","Loyalty Program"],
+        "requires": ["Organized Surveillance","Loyalty Program"],
         "row": 3,
         "column": 4
       },
