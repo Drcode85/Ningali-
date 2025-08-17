@@ -1,2 +1,63 @@
 [
+  {
+  "name": "Secrecy",
+        "era": "Renaissance era",
+        "priorities": {
+            "Neutral": 10,
+            "Cultural": 10,
+            "Diplomatic": 10,
+            "Domination": 10,
+            "Scientific": 10
+        },
+        "uniques": [
+            "[+15]% [Science] <while the empire is happy>",
+            "Only available <before adopting [Piety]>"
+        ],
+        "policies": [
+            {
+                "name": "Organized Surveillance",
+                "uniques": [
+                    "[+2 Science] from every specialist [in all cities]"
+                ],
+                "row": 1,
+                "column": 2
+            },
+            {
+                "name": "Anti-Purge",
+                "uniques": [
+                    "[+2 Happiness] per [4] population [in all cities]"
+                ],
+                "row": 1,
+                "column": 4
+            },
+            {
+                "name": "Encrypted System",
+                "uniques": [
+                    "[+20]% spy effectiveness [in non-enemy cities]"
+                ],
+                "requires": ["Organized Surveillance"],
+                "row": 3,
+                "column": 2
+            },
+            {
+                "name": "Loyalism",
+                "uniques": ["[+1 Culture]"],
+                "requires": ["Organized Surveillance"],
+                "row": 3,
+                "column": 4
+            },
+            {
+                "name": "Censorship",
+                "uniques": ["[-20]% enemy spy effectiveness [in your cities]", "[-100]% weight to this choice for AI decisions"],
+                "requires": ["Anti-Purge"],
+                "row": 3,
+                "column": 3
+            },
+            {
+                "name": "Secrecy Complete",
+                "uniques": [
+                    "[2] Free Technologies",
+                    "May buy [Great Scientist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+                ]
+            }
 ]
