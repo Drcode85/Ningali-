@@ -17,7 +17,9 @@
             {
                 "name": "Organized Surveillance",
                 "uniques": [
-                    "[+2 Science] from every specialist [in all cities]"
+                    "[100]% Production when constructing [Constabulary] buildings [in all cities]",
+                    "[100]% Production when constructing [Police Station] buildings [in all cities]",
+                  "[100]% Production when constructing [National Intelligence Agency] buildings [in all cities]"
                 ],
                 "row": 1,
                 "column": 2
@@ -25,7 +27,8 @@
             {
                 "name": "Anti-Purge",
                 "uniques": [
-                    "[+2 Happiness] per [4] population [in all cities]"
+                    "[+2 Happiness] per [4] population [in all cities]",
+                  "[-15]% Unhappiness from [Population] [in all cities]"
                 ],
                 "row": 1,
                 "column": 4
@@ -33,9 +36,9 @@
             {
                 "name": "Loyalty Program",
                 "uniques": [
-                  "[+1 Culture] from every [Constabulary]",
-                  "[+1 Culture] from every [Police Station]",
-                  "[+2 Culture] from every [National Intelligence Agency]",
+                  "[+1 Happiness] from every [Constabulary]",
+                  "[+1 Happiness] from every [Police Station]",
+                  "[+2 Happiness] from every [National Intelligence Agency]",
               
                 ],
                 "requires": ["Anti-Purge"],
@@ -60,7 +63,7 @@
                 "name": "Secrecy Complete",
                 "uniques": [
                     "Gain an extra spy",
-                    "May buy [Great Scientist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+                    "New spies start with [1] level(s) <when espionage is enabled>"
                 ]
             }
 ]
