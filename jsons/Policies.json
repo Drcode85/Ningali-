@@ -32,7 +32,11 @@
             },
             {
                 "name": "Loyalty Program",
-                "uniques": ["
+                "uniques": [
+                  "[+1 Culture] from every [Constabulary]",
+                  "[+1 Culture] from every [Police Station]",
+                  "[+2 Culture] from every [National Intelligence Agency]",
+              
                 ],
                 "requires": ["Anti-Purge"],
                 "row": 2,
@@ -55,7 +59,7 @@
             {
                 "name": "Secrecy Complete",
                 "uniques": [
-                    "[2] Free Technologies",
+                    "Gain an extra spy",
                     "May buy [Great Scientist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
