@@ -10,7 +10,7 @@
             "Scientific": 10
         },
         "uniques": [
-            "[+15]% [Science] <while the empire is happy>",
+            "[-15]% enemy spy effectiveness [in capital]",
             "Only available <before adopting [Piety]>"
         ],
         "policies": [
@@ -31,18 +31,17 @@
                 "column": 4
             },
             {
-                "name": "Encrypted System",
-                "uniques": [
-                    "[+20]% spy effectiveness [in non-enemy cities]"
+                "name": "Loyalty Program",
+                "uniques": ["
                 ],
-                "requires": ["Organized Surveillance"],
+                "requires": ["Anti-Purge"],
                 "row": 2,
                 "column": 2
             },
             {
-                "name": "Loyalty Program",
-                "uniques": [""],
-                "requires": ["Encrypted System"],
+                "name": "Encryption System",
+                "uniques": ["[+20]% spy effectiveness [in non-enemy cities]"],
+                "requires": ["Organized Surveillance"],
                 "row": 3,
                 "column": 4
             },
