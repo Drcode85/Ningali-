@@ -42,21 +42,21 @@
         ],
         "requires": ["Anti-Purge"],
         "row": 2,
-        "column": 2
+        "column": 4
       },
       {
         "name": "Encryption System",
         "uniques": ["[+20]% spy effectiveness [in non-enemy cities]"],
         "requires": ["Organized Surveillance"],
         "row": 3,
-        "column": 4
+        "column": 2
       },
       {
         "name": "Censorship",
         "uniques": ["[-20]% enemy spy effectiveness [in your cities]"],
         "requires": ["Encryption System"],
         "row": 3,
-        "column": 3
+        "column": 4
       },
       {
         "name": "Secrecy Complete",
