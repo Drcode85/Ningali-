@@ -31,7 +31,7 @@
           "[-15]% Unhappiness from [Population] [in all cities]"
         ],
         "row": 1,
-        "column": 4
+        "column": 5
       },
       {
         "name": "Loyalty Program",
@@ -42,7 +42,7 @@
         ],
         "requires": ["Anti-Purge"],
         "row": 2,
-        "column": 4
+        "column": 5
       },
       {
         "name": "Encryption System",
@@ -54,7 +54,7 @@
       {
         "name": "Censorship",
         "uniques": ["[-20]% enemy spy effectiveness [in your cities]"],
-        "requires": ["Loyalty Program"],
+        "requires": ["Central Surveillance","Loyalty Program"],
         "row": 3,
         "column": 4
       },
