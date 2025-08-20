@@ -27,7 +27,7 @@
       {
         "name": "Anti-Purge",
         "uniques": [
-          "[+10]% Gold",
+          "[+10]% [Gold]",
           "[-15]% Unhappiness from [Population] [in all cities]"
         ],
         "row": 1,
