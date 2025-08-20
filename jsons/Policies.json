@@ -31,7 +31,7 @@
           "[-15]% Unhappiness from [Population] [in all cities]"
         ],
         "row": 1,
-        "column": 5
+        "column": 4
       },
       {
         "name": "Loyalty Program",
@@ -42,7 +42,7 @@
         ],
         "requires": ["Anti-Purge"],
         "row": 2,
-        "column": 5
+        "column": 4
       },
       {
         "name": "Encryption System",
