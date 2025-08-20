@@ -27,7 +27,7 @@
       {
         "name": "Anti-Purge",
         "uniques": [
-          "[+2 Happiness] per [4] population [in all cities]",
+          "[+10]% Gold",
           "[-15]% Unhappiness from [Population] [in all cities]"
         ],
         "row": 1,
@@ -62,7 +62,8 @@
         "name": "Secrecy Complete",
         "uniques": [
           "Gain an extra spy",
-          "New spies start with [1] level(s) <when espionage is enabled>"
+          "[+5 Gold, +5 Science] from every [National Intelligence Agency]",
+          "[+15]% spy effectiveness [in all cities]"
         ]
       }
     ]
