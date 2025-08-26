@@ -5,12 +5,13 @@
 		"replaces": "Lancer",
 		"unitType": "Mounted",
 		"movement": 4,
-		"strength": 27,
+		"strength": 25,
 		"cost": 185,
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Can build [Camp] improvements on tiles","Can build [Pasture] improvements on tiles"],
 		"upgradesTo": "Anti-Tank Gun",
+		"promotions": ["Palces"]
 		"obsoleteTech": "Combined Arms",
 		"attackSound": "horse"
 	},
