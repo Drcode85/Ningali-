@@ -9,7 +9,7 @@
 		"cost": 185,
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "Can build [Camp] improvements on tiles","Can build [Pasture] improvements on tiles"],
+		"uniques": ["[+25]% Strength <when fighting in [Open terrain] tiles>","Can move after attacking","No defensive terrain bonus", "Can build [Camp] improvements on tiles","Can build [Pasture] improvements on tiles"],
 		"upgradesTo": "Anti-Tank Gun",
 		"promotions": ["Palces"]
 		"obsoleteTech": "Combined Arms",
